@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LearnMate</string>
+    <string name="readiness_disclaimer">Estimated based on quiz results, topic mastery, and study progress — not an exam score prediction.</string>
+</resources>

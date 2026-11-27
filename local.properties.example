@@ -1,0 +1,4 @@
+# Copy this file to local.properties and fill in your local paths and Gemini API key.
+# Never commit local.properties to version control.
+sdk.dir=C\:\\Users\\Admin\\AppData\\Local\\Android\\Sdk
+GEMINI_API_KEY=YOUR_GEMINI_API_KEY_HERE
